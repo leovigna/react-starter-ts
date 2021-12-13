@@ -1,8 +1,7 @@
 import { BrowserRouter as Router } from 'react-router-dom';
 
-import 'bootstrap/dist/css/bootstrap.min.css';
-import '../src/styles/index.css';
-import '../src/styles/animations.tsx';
+//Import shared CSS
+//import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const parameters = {
     actions: {
